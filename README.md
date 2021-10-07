@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @StephanePerrin2
 - 👀 I’m interested in image processing.
-- 🌱 I’m currently learning OPP in Python. 
-- 💞️ I’m looking to collaborate with European Space Agency.
-- 📫 You can reach me on LinkedIn ~/perrinstephane 
+- 🌱 I’m currently working on image processing for optical and biomedical methods 🧬️
+- 💞️ I’m looking to collaborate with 📡 European Space Agency 🛰
+- 💻 Languages: Python, C++, MATLAB.
+- 💻 OS: Arch Linux
 
 <!---
 StephanePerrin2/StephanePerrin2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
