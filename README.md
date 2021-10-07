@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @StephanePerrin2
+- 👋 Hi, I’m @StephanePerrin2 🏀
 - 👀 I’m interested in 🔦 Photonics, 🧬️ Living Sciences, 🔭 Astrophysics, 💻 Programming, 🌱 Environmentalism
-- 🧑‍💼 I’m currently working on 🔬 biomedical imaging methods 🧬️
+- 🧑‍💼 I’m currently working on 🔬 biomedical imaging methods
 - 💞️ I’m looking to collaborate with 📡 European Space Agency 🛰
-- Languages: Python, C++, MATLAB.
+- Languages: Python, C++, MATLAB
 - OS: Arch Linux, Fedora
 
 <!---
